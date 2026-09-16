@@ -22,6 +22,6 @@ public class ArrayBasic {
             b[i] = sc.nextInt();
             sum = b[i] + sum;
         }
-        System.out.println(sum);
+        System.out.println();
     }
 }
